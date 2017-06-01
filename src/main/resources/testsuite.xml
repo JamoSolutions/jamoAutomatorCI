@@ -1,7 +1,7 @@
-<testsuite url="https://jamo-candidate.appspot.com" name="Thomas Test Suite">
+<testsuite url="https://jamo-candidate.appspot.com" name="TODO fill in your test suite name">
 	<credentials>
-		<account>EVAL_thomashahn</account>
-		<username>thomas.hahn@devoteam.com</username>
+		<account>TODO fill in your account</account>
+		<username>TODO fill in your user name</username>
 		<password>TODO fill in password</password>
 	</credentials>
 	<device name="TODO name of your device">
