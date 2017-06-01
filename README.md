@@ -1,2 +1,4 @@
-# jamoAutomatorCI
-Jamo automator CI configuration
+# Jamo automator CI configuration
+
+TODO describe how to use this ci
+
