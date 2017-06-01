@@ -1,0 +1,11 @@
+<testsuite url="https://jamo-candidate.appspot.com" name="Thomas Test Suite">
+	<credentials>
+		<account>EVAL_thomashahn</account>
+		<username>thomas.hahn@devoteam.com</username>
+		<password>TODO fill in password</password>
+	</credentials>
+	<device name="TODO name of your device">
+		<testcase name="TODO name of your test case" timeout="4"/>
+		<testcase name="TODO name of your second test case" timeout="4"/>
+	</device>
+</testsuite>
