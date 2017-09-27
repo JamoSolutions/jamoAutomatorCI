@@ -20,11 +20,14 @@
 	<prerequisites>
         <maven>3.1.0</maven>
     </prerequisites>
+	<properties>
+        <automator.maven.version>1.0.0</automator.maven.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.jamosolutions</groupId>
 	        <artifactId>jamoautomator-maven-plugin</artifactId>
-		    <version>0.0.3-SNAPSHOT</version>
+		    <version>${automator.maven.version}</version>
 		</dependency>
 	</dependencies>
     <build>
@@ -42,7 +45,7 @@
 			<plugin>
 		        <groupId>com.jamosolutions</groupId>
 		        <artifactId>jamoautomator-maven-plugin</artifactId>
-		        <version>0.0.3-SNAPSHOT</version>
+		        <version>${automator.maven.version}</version>
 				<dependencies>
 					<dependency>
 						<groupId>org.springframework</groupId>
